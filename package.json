@@ -1,0 +1,31 @@
+{
+  "name": "gitstars",
+  "version": "1.0.0",
+  "description": "GitHub Profile viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilgharbaoui/GitStars.git"
+  },
+  "keywords": [
+    "GitStars"
+  ],
+  "author": "Khalil Gharbaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalilgharbaoui/GitStars/issues"
+  },
+  "homepage": "https://github.com/khalilgharbaoui/GitStars#readme",
+  "devDependencies": {
+    "babel-core": "^6.7.6",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.12.15"
+  },
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
